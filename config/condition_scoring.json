@@ -1,0 +1,40 @@
+{
+  "gerd": {
+    "bonus_foods": [
+      "curd",
+      "oats",
+      "banana"
+    ],
+    "penalty_foods": [
+      "peanuts"
+    ],
+    "bonus_points": 10,
+    "penalty_points": 8
+  },
+  "weight_loss": {
+    "bonus_foods": [
+      "egg white",
+      "tofu",
+      "soy chunks",
+      "moong dal"
+    ],
+    "penalty_foods": [
+      "peanuts"
+    ],
+    "bonus_points": 8,
+    "penalty_points": 4
+  },
+  "diabetes": {
+    "bonus_foods": [
+      "brown rice",
+      "moong dal",
+      "masoor dal",
+      "chana dal"
+    ],
+    "penalty_foods": [
+      "white rice"
+    ],
+    "bonus_points": 9,
+    "penalty_points": 7
+  }
+}

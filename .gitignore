@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# VS Code
+.vscode/
+
+# Cursor
+.cursor/
+
+# Logs
+logs/
+*.log
+
+# Environment Variables
+.env
+
+# Chroma Vector DB
+rag/vector_db/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Test Cache
+.pytest_cache/
+
+# Build
+build/
+dist/
+
+# Temporary
+temp/
+tmp/
+
+# Python Packaging
+*.egg-info/
+
+# Secrets
+config/secrets.json
